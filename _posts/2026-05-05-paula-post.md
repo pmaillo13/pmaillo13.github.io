@@ -33,7 +33,8 @@ The system focuses especially on monitoring:
 ## How does the system work?
 
 The proposed application is structured in four main layers:
-![IoT-based maternal health monitoring system architecture]({{ '/images/maternal-monitoring-architecture.png' | relative_url }}){: .mx-auto.d-block :}
+![IoT-based maternal health monitoring system architecture]({{ '/images/maternal-monitoring-architecture.jpg' | relative_url }}){: .mx-auto.d-block :}
+
 *Figure: IoT-based maternal health monitoring system architecture from Sarhaddi et al. (2021).*
 
 ### 1. Perception layer
