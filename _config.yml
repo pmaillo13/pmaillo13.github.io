@@ -105,7 +105,7 @@ footer-hover-col: "#D978A7"  # stronger pastel pink hover
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/images/footer.jpeg"
 #page-img: "/assets/img/bgimage.png"
 
 
