@@ -39,27 +39,8 @@ social-network-links:
   email: "paula.maillo@estudiants.urv.cat"
   github: pmaillo13
   linkedin: paula-maillo-perez
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+  ORCID: 0009-0005-0513-9399
+
 
 ###########################
 # --- General options --- #
@@ -108,17 +89,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FFF9FC"          # very soft pink-white background
+text-col: "#3F3F46"          # dark grey, easy to read
+link-col: "#6CAED6"          # pastel blue links
+hover-col: "#E8A7C8"         # pastel pink hover
+navbar-col: "#DDEFF8"        # pastel blue navbar
+navbar-text-col: "#3F3F46"   # dark readable text
+navbar-border-col: "#F3C6DA" # soft pink border
+footer-col: "#FCE4EF"        # pastel pink footer
+footer-text-col: "#6B6B73"   # soft grey footer text
+footer-link-col: "#4F9CC8"   # stronger pastel blue links
+footer-hover-col: "#D978A7"  # stronger pastel pink hover
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
