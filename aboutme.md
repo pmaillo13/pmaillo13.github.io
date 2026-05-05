@@ -14,7 +14,7 @@ Have a look at my background below!
 - Master of Engineering in Biomedical Engineering at University of Galway (2021 - 2022)
 - Bachelor's Degree in Biomedical Engineering at Universidad Politécnica de Madrid (UPM) (2017 - 2021)
 
-### 🇪🇺💼 Experience
+### 💼 Experience 🇪🇺
 - EU Project Manager at Foundation for Biomedical Research of Hospital Universitario 12 de Octubre (2024 - present)
   - Managing the technical and financial participation of SERMAS and FIBH12O in JACARDI, a European project funded by the EU4Health Programme.
   - Coordinating multidisciplinary teams, pilot projects, budgets, reporting, and deliverables in the cardiovascular and diabetes research field.
